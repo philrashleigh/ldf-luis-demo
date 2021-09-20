@@ -1,5 +1,11 @@
 # ldf-demo-ui
 
+## Project Description
+
+A project with a demo bot talking to a Microsoft LUIS endpoint to book meeting rooms.
+
+For Leeds Digital Festival 2021
+
 ## Project setup
 ```
 npm install
